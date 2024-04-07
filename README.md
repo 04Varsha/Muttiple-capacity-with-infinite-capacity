@@ -14,21 +14,18 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-
-
-
 ## Experiment:
-
 
 ![292619725-f836b70a-a642-4723-9f28-0c082dcb9d26](https://github.com/04Varsha/Muttiple-capacity-with-infinite-capacity/assets/149035374/7f22e450-745a-48ae-a77b-13ff7a30ee8e)
 
-
 ![292619729-9d565b26-a81a-4f03-9456-3b07387d1296](https://github.com/04Varsha/Muttiple-capacity-with-infinite-capacity/assets/149035374/0cdaca15-4248-4a23-912a-272584ec8314)
-
 
 ## Program
 
 ~~~
+Developed By : VARSHA A
+Register Number : 212223220121
+
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -60,10 +57,6 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
-Developed By : VARSHA A
-Register Number : 212223220121
-
 ~~~
 
 ## Output :
